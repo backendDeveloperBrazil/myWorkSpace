@@ -26,3 +26,4 @@ int main(){
         printf("\nO número %d não é o primo!", n);
     }
 }
+//corrigido
