@@ -101,5 +101,6 @@ int main() {
 //=====================================================================================//
 
 // (False) Só é possível retirar um elemento da lista do seu final;
+// (True) Só é possível retirar um elemento da pilha do seu final;
 // (True) Para inserir e retirar um elemento da lista deve-se atualizar o valor do ponteiro;
 // (True) A struct é uma varável que armazena valores de tipos diferentes.
