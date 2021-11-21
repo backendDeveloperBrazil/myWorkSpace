@@ -108,10 +108,10 @@ int main() {
 
 // (True) A struct é uma varável que armazena valores de tipos diferentes.
 
-// () Uma pilha é uma estrutura de dados do tipo LIFO (, onde o primeiro elemento
+// (False) Uma pilha é uma estrutura de dados do tipo LIFO (, onde o primeiro elemento
 //    elemento a ser inserido, será o primeiro a ser retirado.
 
-// () As filas são estruturas de dados do tipo FIFO (first-infirst-out), adiciona-se
+// (True) As filas são estruturas de dados do tipo FIFO (first-infirst-out), adiciona-se
 //    itens no fim e remove-se do início.
 
-// () As principais funções da fila são push e pop;
+// (False) As principais funções da fila são push e pop;
