@@ -98,4 +98,8 @@ int main() {
     return 0;
 
 }
-//filaFuncional1
+//=====================================================================================//
+
+// (False) Só é possível retirar um elemento da lista do seu final;
+// (True) Para inserir e retirar um elemento da lista deve-se atualizar o valor do ponteiro;
+// (True) A struct é uma varável que armazena valores de tipos diferentes.
