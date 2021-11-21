@@ -101,6 +101,17 @@ int main() {
 //=====================================================================================//
 
 // (False) Só é possível retirar um elemento da lista do seu final;
+
 // (True) Só é possível retirar um elemento da pilha do seu final;
+
 // (True) Para inserir e retirar um elemento da lista deve-se atualizar o valor do ponteiro;
+
 // (True) A struct é uma varável que armazena valores de tipos diferentes.
+
+// () Uma pilha é uma estrutura de dados do tipo LIFO (, onde o primeiro elemento
+//    elemento a ser inserido, será o primeiro a ser retirado.
+
+// () As filas são estruturas de dados do tipo FIFO (first-infirst-out), adiciona-se
+//    itens no fim e remove-se do início.
+
+// () As principais funções da fila são push e pop;
