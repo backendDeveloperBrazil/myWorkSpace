@@ -117,5 +117,5 @@ int main() {
 // (False) As principais funções da fila são push e pop;
 
 // Lista: podemos remover um item de qualquer lugar da lista
-// Pilha: podemos remover apenas do ultimo local alocado (topo da fila)
+// Pilha: podemos remover apenas do ultimo local alocado (topo da pilha)
 // Fila: podemos remover apenas do inicio da fila, adicionamos no final e tiramos no inicio da fila.
